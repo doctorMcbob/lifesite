@@ -1,0 +1,9 @@
+#menu {
+    width: 100%;
+}
+#xybutton {
+    position: absolute;
+    margin-left: 5px;
+    
+    height: 20px;
+}
